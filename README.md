@@ -9,4 +9,5 @@
 - Python 3.8
 - Spark 3.5.1
 - Hadoop 3.3.4
+- openjdk version 1.8.0_412-412
 - winutils.exe and hadoop.dll to solve hadoop dependency issue in Windows from https://github.com/cdarlint/winutils 
