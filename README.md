@@ -5,3 +5,8 @@
 - Test out the [test.ipynb](test.ipynb) first
 - Then in terminal `streamlit run app.py`
  
+# Dependencies:
+- Python 3.8
+- Spark 3.5.1
+- Hadoop 3.3.4
+- winutils.exe and hadoop.dll to solve hadoop dependency issue in Windows from https://github.com/cdarlint/winutils 
